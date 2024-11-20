@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         configureUI()
     }
-    // 배경, 글씨 색상과 폰트 설정!
+    // 배경, 글씨 색상과 위치, 폰트 설정!
     private func configureUI() {
         view.backgroundColor = .black
         label.text = "12345"
