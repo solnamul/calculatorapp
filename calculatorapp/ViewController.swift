@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         configureUI()
     }
     
-    // UI 설정
+    // UI 설정!
     private func configureUI() {
         view.backgroundColor = .black
         
